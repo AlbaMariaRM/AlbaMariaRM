@@ -38,7 +38,7 @@ You can learn more about me at:
 
 <p align = "center">
   <a>
-    <img src="https://img.shields.io/badge/SQL-blue" height = "60" alt = "SQL">
+    <img src="https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC" height = "60" alt = "SQL">
   </a>
   <a>
     <img src = "https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height = "60" alt = "GitHub">
