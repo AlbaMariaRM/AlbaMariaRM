@@ -7,7 +7,7 @@
   <tr>
     <td align = "center">
 <p>
-&#x1F1EA;&#x1F1F8;
+&#127466;&#127480;
 
 Me considero una persona polivalente, empática y con ganas de aprender. Estoy acostumbrada a trabajar tanto de manera 
 individual como en equipo y tengo un gran empeño en hacer un trabajo impecable. Dispongo de experiencia en diversos 
@@ -22,7 +22,7 @@ Podrás obtener más información sobre mí en:
     </td>
     <td align = "center">
 <p>
-&#x1F1EC;&#x1F1E7;
+&#127468;&#127463;
 
 I consider myself a versatile person, empathetic and eager to learn. I am used to working both individually and in a team 
 and I have a great determination to do an impeccable job. I have experience in various fields, but I develop a special 
@@ -38,7 +38,7 @@ You can learn more about me at:
   </tr>
 </table>
 
-# 🔧 Tecnologías y Herramientas | Technologies and Tools
+# 🔧 Tecnologías | Technologies
 
 <p align = "center">
   <a>
