@@ -38,9 +38,6 @@ You can learn more about me at:
 
 <p align = "center">
   <a>
-    <img src="https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC" height = "60" alt = "SQL">
-  </a>
-  <a>
     <img src = "https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height = "60" alt = "GitHub">
   </a> 
   <a>
@@ -51,5 +48,11 @@ You can learn more about me at:
   </a>
   <a>
     <img src = "https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height = "60" alt = "Python">
+  </a>
+  <a>
+    <img src = "https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height = "60" alt = "Visual Studio Code">
+  </a>
+  <a>
+    <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height = "60" alt = "Windows">
   </a>
 </p>
