@@ -1,3 +1,4 @@
+
 ![Texto alternativo](img/banner.png)
 
 # 👩🏽‍💻 Sobre mí | About me
@@ -37,51 +38,51 @@ You can learn more about me at:
 
 <p align = "center">
   <a>
-    ![Static Badge](https://img.shields.io/badge/DATABRICKS-white?style=for-the-badge&logo=databricks&logoColor=white&labelColor=%23FF3621&color=%23FF3621)
+    <img src = "https://img.shields.io/badge/DATABRICKS-white?style=for-the-badge&logo=databricks&logoColor=white&labelColor=%23FF3621&color=%23FF3621" height = "60" alt = "Databricks">
   </a>
   <a>
     <img src = "https://img.shields.io/badge/PYTHONANYWHERE-white?style=for-the-badge&logo=pythonanywhere&logoColor=white&labelColor=%231D9FD7&color=%231D9FD7" height = "60" alt = "PythonAnywhere">
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/KAGGLE-white?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=%2320BEFF&color=%2320BEFF)" height = "60" alt = "Kaggle">
+    <img src = "https://img.shields.io/badge/KAGGLE-white?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=%2320BEFF&color=%2320BEFF" height = "60" alt = "Kaggle">
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=%23003B57&color=%23003B57)" height = "60" alt = "SQL">
+    <img src = "https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=%23003B57&color=%23003B57" height = "60" alt = "SQL">
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/KERAS-white?style=for-the-badge&logo=keras&logoColor=white&labelColor=%23D00000&color=%23D00000)" height = "60" alt = "Keras">
+    <img src = "https://img.shields.io/badge/KERAS-white?style=for-the-badge&logo=keras&logoColor=white&labelColor=%23D00000&color=%23D00000" height = "60" alt = "Keras">
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/TENSORFLOW-white?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=%23FF6F00&color=%23FF6F00)" height = "60" alt = "TensorFlow">
+    <img src = "https://img.shields.io/badge/TENSORFLOW-white?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=%23FF6F00&color=%23FF6F00" height = "60" alt = "TensorFlow">
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/SCIKIT--LEARN-white?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=%23F7931E&color=%23F7931E)" height = "60" alt = "Scikit-learn">
+    <img src = "https://img.shields.io/badge/SCIKIT--LEARN-white?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=%23F7931E&color=%23F7931E" height = "60" alt = "Scikit-learn">
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/MATPLOTLIB-white?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=yellow&color=yellow)" height = "60" alt = "Matplotlib">
+    <img src = "https://img.shields.io/badge/MATPLOTLIB-white?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=yellow&color=yellow" height = "60" alt = "Matplotlib">
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/PANDAS-white?style=for-the-badge&logo=pandas&logoColor=white&labelColor=%23150458&color=%23150458)" height = "60" alt = "Pandas">
+    <img src = "https://img.shields.io/badge/PANDAS-white?style=for-the-badge&logo=pandas&logoColor=white&labelColor=%23150458&color=%23150458" height = "60" alt = "Pandas">
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/NUMPY-white?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%23013243&color=%23013243)" height = "60" alt = "NumPy">
+    <img src = "https://img.shields.io/badge/NUMPY-white?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%23013243&color=%23013243" height = "60" alt = "NumPy">
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/JUPYTER-white?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%23F37626&color=%23F37626)" height = "60" alt = "Jupyter">
+    <img src = "https://img.shields.io/badge/JUPYTER-white?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=%23F37626&color=%23F37626" height = "60" alt = "Jupyter">
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB)" height = "60" alt = "Python">
+    <img src = "https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB" height = "60" alt = "Python">
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032&color=%23F05032)" height = "60" alt = "Git">
+    <img src = "https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032&color=%23F05032" height = "60" alt = "Git">
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717)" height = "60" alt = "GitHub">
+    <img src = "https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717&color=%23181717" height = "60" alt = "GitHub">
   </a>
    <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-white?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=blue&color=blue)" height = "60" alt = "Visual Studio Code">
+    <img src = "https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-white?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=blue&color=blue" height = "60" alt = "Visual Studio Code">
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/WINDOWS-white?style=for-the-badge&logo=windows&logoColor=white&labelColor=blue&color=blue)" height = "60" alt = "Windows">
+    <img src = "https://img.shields.io/badge/WINDOWS-white?style=for-the-badge&logo=windows&logoColor=white&labelColor=blue&color=blue" height = "60" alt = "Windows">
   </a>
 </p>
