@@ -1,4 +1,3 @@
-
 ![Texto alternativo](img/banner.png)
 
 # 👩🏽‍💻 Sobre mí | About me
@@ -41,7 +40,7 @@ You can learn more about me at:
     ![Static Badge](https://img.shields.io/badge/DATABRICKS-white?style=for-the-badge&logo=databricks&logoColor=white&labelColor=%23FF3621&color=%23FF3621)
   </a>
   <a>
-    <img src = "![Static Badge](https://img.shields.io/badge/PYTHONANYWHERE-white?style=for-the-badge&logo=pythonanywhere&logoColor=white&labelColor=%231D9FD7&color=%231D9FD7)" height = "60" alt = "PythonAnywhere">
+    <img src = "https://img.shields.io/badge/PYTHONANYWHERE-white?style=for-the-badge&logo=pythonanywhere&logoColor=white&labelColor=%231D9FD7&color=%231D9FD7" height = "60" alt = "PythonAnywhere">
   </a>
   <a>
     <img src = "![Static Badge](https://img.shields.io/badge/KAGGLE-white?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=%2320BEFF&color=%2320BEFF)" height = "60" alt = "Kaggle">
