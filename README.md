@@ -59,7 +59,7 @@ You can learn more about me at:
     <img src = "https://img.shields.io/badge/LOOKER%20STUDIO-white?style=for-the-badge&logo=looker&logoColor=white&labelColor=%4285F4&color=%4285F4" height = "60" alt = "Looker Studio">
   </a>
   <a>
-    <img src = "https://img.shields.io/badge/QLIKVIEW-white?style=for-the-badge&logo=qlik&logoColor=white&labelColor=%009848&color=%009848" height = "60" alt = "QlikView">
+    <img src = "https://img.shields.io/badge/QLIKVIEW-white?style=for-the-badge&logo=qlikview&logoColor=white&labelColor=%009848&color=%009848" height = "60" alt = "QlikView">
   </a>
   <a>
     <img src = "https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=%23003B57&color=%23003B57" height = "60" alt = "SQL">
